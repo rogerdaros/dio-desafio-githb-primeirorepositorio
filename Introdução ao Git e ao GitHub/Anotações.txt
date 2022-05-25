@@ -1,3 +1,11 @@
 Link para downloado do Git: https://github.com/git-for-windows/git/releases/download/v2.36.1.windows.1/Git-2.36.1-64-bit.exe
+O Git Bash é um tertminal extendido para otimizar o uso do Git.
 
-O Git é um tertminal extendido para otimizar o uso do Git.
+Comandos para enviar os arquivos do PC  Local para o servidor do git.
+
+git status --> Mostra se os aruivos foram modificados;
+git add . --> Adiciona o arquivo novo ao controle de versão;
+git commit -m "Inclusão das anotações básicas do curso de GitHub"
+git push origin main;
+
+
