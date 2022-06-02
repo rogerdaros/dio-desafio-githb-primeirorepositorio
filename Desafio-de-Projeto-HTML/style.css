@@ -211,7 +211,9 @@ top: 48px;
     align-items: center;
     justify-content: space-evenly;
     width: 90%;
-}
+    text-align: justify;    
+
+    }
 
 .card {
     height: 300px;
@@ -235,6 +237,7 @@ top: 48px;
     font-family: sans-serif;
     letter-spacing: 1px;
     color: rgb(109, 109, 109);
+    
 }
 
 .card-wrapper {
@@ -295,6 +298,7 @@ top: 48px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 20px;
 }
 
 
